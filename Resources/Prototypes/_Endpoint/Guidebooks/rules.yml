@@ -1,0 +1,4 @@
+﻿- type: guideEntry
+  id: DefaultRuleset
+  name: guide-entry-rules
+  text: "/ServerInfo/_Endpoint/ServerRules/DefaultRuleset.xml"

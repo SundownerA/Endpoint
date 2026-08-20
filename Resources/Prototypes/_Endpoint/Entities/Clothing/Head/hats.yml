@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: EPClothingHeadHatBlackPatrolCap
+  name: army cap
+  description: A pre-war army cap. Slightly worn.
+  components:
+  - type: Sprite
+    sprite: _Endpoint/Clothing/Head/Hats/Neutral/Blackpatrolcap.rsi
+  - type: Clothing
+    sprite: _Endpoint/Clothing/Head/Hats/Neutral/Blackpatrolcap.rsi

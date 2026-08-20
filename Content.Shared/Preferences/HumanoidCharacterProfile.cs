@@ -438,7 +438,8 @@ public sealed partial class HumanoidCharacterProfile : ICharacterProfile
 
         if (configManager.GetCVar(CCVars.RestrictedNames))
         {
-            name = RestrictedNameRegex.Replace(name, string.Empty);
+                name = Regex.Replace(name, @"[^А-Я,а-я,0-9, -]", string.Empty); // Corvax: Only cyrillic names
+                name = Regex.Replace(name, @"[^А-Яа-яёЁ0-9' -]", string.Empty); // Corvax: Only cyrillic names
         }
 
         if (configManager.GetCVar(CCVars.ICNameCase))

@@ -1,0 +1,104 @@
+# Guidance: Keep entries alphabetical and grouped with their children. Each entry should have an index with a 5 minute summary -
+# and can have additional children pages on roles, RP / lore guidance, background / history, other faction relationships, economics and strength / power projection in this region as well as region specific faction info.
+
+- type: guideEntry
+  id: Factions
+  name: guide-entry-factions
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/factions.xml"
+  children:
+  - Town
+  - Tribes
+  - NCR
+  - CaesarLegion
+  - SBoS
+  - MinorLoreFactions
+
+- type: guideEntry
+  id: Town
+  name: guide-entry-town
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Main/town.xml"
+
+- type: guideEntry
+  id: Tribes
+  name: guide-entry-tribes
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Main/tribes.xml"
+
+- type: guideEntry
+  id: NCR
+  name: guide-entry-ncr
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Main/ncr.xml"
+  children:
+  - NCR_Ranks
+
+- type: guideEntry
+  id: NCR_Ranks
+  name: guide-entry-ncr-ranks
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Sub/ncr_ranks.xml"
+
+- type: guideEntry
+  id: CaesarLegion
+  name: guide-entry-caesar-legion
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Main/caesarlegion.xml"
+  children:
+  - CaesarLegion_Ranks
+
+- type: guideEntry
+  id: CaesarLegion_Ranks
+  name: guide-entry-caesarlegion-ranks
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Sub/caesarlegion_ranks.xml"
+
+- type: guideEntry
+  id: SBoS
+  name: guide-entry-sonorianbrotherhood
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Main/sbos.xml"
+  children:
+  - SBoS_Ranks
+
+
+- type: guideEntry
+  id: SBoS_Ranks
+  name: guide-entry-sbos-ranks
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Sub/sbos_ranks.xml"
+
+- type: guideEntry
+  id: MinorLoreFactions
+  name: guide-entry-minorlorefactions
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/minor.xml"
+  children:
+  - Shakals
+  - UglyDogs
+  - LostHills
+  - Enclave
+
+- type: guideEntry
+  id: Shakals
+  name: guide-entry-shakals
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Minor/shakals.xml"
+
+- type: guideEntry
+  id: UglyDogs
+  name: guide-entry-uglydogs
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Minor/uglydogs.xml"
+
+- type: guideEntry
+  id: LostHills
+  name: guide-entry-losthills
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Minor/losthills.xml"
+  children:
+  - LostHills_RanksG
+  - LostHills_Ideology
+
+- type: guideEntry
+  id: LostHills_RanksG
+  name: guide-entry-losthills-ranks-global
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Sub/losthills_ranks_global.xml"
+
+- type: guideEntry
+  id: LostHills_Ideology
+  name: guide-entry-losthills-ranks-ideology
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Sub/losthills_ranks_ideology.xml"
+
+- type: guideEntry
+  id: Enclave
+  name: guide-entry-enclave
+  text: "/ServerInfo/_Endpoint/Guidebooks/Factions/Minor/enclave.xml"

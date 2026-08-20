@@ -1,6 +1,5 @@
-Welcome to Nuclear 14! You've woken up in the wastelands of Washington State. Try and survive, thrive and have fun (not at the expense of others hopefully).
+Добро пожаловать в Endpoint! Вы очнулись в Сьерре, Штат Вашингтон, США. Постарайтесь выжить, преуспеть и получить удовольствие (надеемся, не за счет других игроков).
 
-Please make sure you understand the server rules (F1) and if you have any questions, consult this guide, other wastelanders or via discord. You can also ask admins for help (ahelp) by hitting the escape key > admin help and typing a message to any online admins. Especially do this if you witness someone breaking rules.
+Пожалуйста, убедитесь, что вы понимаете правила сервера Esc > Правила. Если у вас возникнут вопросы, сверьтесь с этим руководством, спросите других выживших или обратитесь в Discord. Вы также можете попросить помощи у администраторов (Ахелп): (клавиша F1) и напишите сообщение любому админу в сети. Обязательно сделайте это, если стали свидетелем нарушения правил. 
 
-
-Instead of intents, we have combat mode. Check controls below for its keybind. You can't attack anybody with it off, so no more hitting yourself with your own crowbar.
+Вместо режимов взаимодействия у нас используется боевой режим. Его горячую клавишу можно найти в настройках управления ниже. Вы не сможете никого атаковать, пока он выключен, так что вы больше не ударите себя собственным ломом по случайности.

@@ -1,0 +1,9 @@
+- type: guideEntry
+  id: Endpoint
+  name: guide-entry-nativefallout
+  text: "/ServerInfo/_Endpoint/Guidebooks/endpoint.xml"
+  children:
+  - EPCrafting
+  - Factions
+  - WeaponsAmmo
+  - EPMobs
