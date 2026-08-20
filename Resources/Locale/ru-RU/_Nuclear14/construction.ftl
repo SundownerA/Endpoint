@@ -1,0 +1,16 @@
+construction-category-medical = Медицина
+lathe-category-containers = Контейнеры
+lathe-category-chemistry = Химия
+lathe-category-kitchen = Кухня
+lathe-category-misc = Прочее
+lathe-category-ammo-box = Боеприпасы
+lathe-category-ammo-magazines = Обоймы
+lathe-category-armor = Броня
+lathe-category-cleaning = Очистка
+lathe-category-shields = Щиты
+lathe-category-weapons-melee = Ближний бой
+lathe-category-weapons-pistols = Пистолеты
+lathe-category-weapons-rifles = Винтовки
+lathe-category-weapons-smgs = Пистолеты-пулемёты
+lathe-category-identification = Идентификация
+lathe-category-blueprints = Чертежи

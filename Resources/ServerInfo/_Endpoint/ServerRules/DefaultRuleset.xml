@@ -1,0 +1,127 @@
+<Document>
+  <ColorBox Color="#3a3a3a" OutlineColor="#5a5a5a" OutlineThickness="2" Margin="5">
+    <Box Orientation="Vertical">
+      <Box Orientation="Horizontal" HorizontalAlignment="Center">
+        Правила сервера Native Fallout
+     </Box>
+      <Box Orientation="Vertical" Margin="10">
+        Native Fallout - это ролевой сервер. Основная цель этого сервера - не только предоставить игрокам увлекательный геймплей, но и создать истории, которыми они могли бы поделиться даже с друзьями за пределами стандартной Space Station 14.
+      </Box>
+    </Box>
+  </ColorBox>
+
+  <ColorBox Color="#3a3a3a" OutlineColor="#5a5a5a" OutlineThickness="2" Margin="5">
+    <Box Orientation="Vertical">
+      <Box Orientation="Horizontal" HorizontalAlignment="Center">
+        П.0 Мудачество
+     </Box>
+      <Box Orientation="Vertical" Margin="10">
+        • В правилах нельзя описать всё. Админы решают спорные ситуации сами.
+
+        • Набеги запрещены.
+
+        • Без НРП в чате. Никаких мемов, реальных политиков, шуток вне РП и т.п.
+      </Box>
+    </Box>
+  </ColorBox>
+
+  <ColorBox Color="#3a3a3a" OutlineColor="#5a5a5a" OutlineThickness="2" Margin="5">
+    <Box Orientation="Vertical">
+      <Box Orientation="Horizontal" HorizontalAlignment="Center">
+        П.1 Оставайся в роли
+     </Box>
+      <Box Orientation="Vertical" Margin="10">
+        • Не играем ЛРП. Веди себя естественно. Перед игрой почитай лор фракции.
+
+        • Можно играть безумца, но любые действия должны быть логично объяснены в РП.
+
+        • Нельзя брать известные имена из Fallout, других игр, фильмов и т.д.
+
+        • Придумай своё имя в тематике сервера.
+
+        • Нельзя брать имя, которое уже занято (в том числе у забаненных).
+      </Box>
+    </Box>
+  </ColorBox>
+
+  <ColorBox Color="#3a3a3a" OutlineColor="#5a5a5a" OutlineThickness="2" Margin="5">
+    <Box Orientation="Vertical">
+      <Box Orientation="Horizontal" HorizontalAlignment="Center">
+        П.2 Война и эскалация
+     </Box>
+      <Box Orientation="Vertical" Margin="10">
+        • Должна быть причина для драки.
+        Пример: у тебя украли вещь — можешь требовать вернуть или напасть.
+
+        • Не провоцируй специально ради драки.
+
+        • Перед боем скажи чёткое требование и дай время.
+        Пример: «Верни оружие, 5 секунд» — и считай.
+
+        • Если за игроком есть награда — его можно убить без слов (KOS).
+
+        • Если на твоих глазах убили союзника — можно стрелять без предупреждения.
+
+        • Грабеж — тоже с предупреждением. Это РП, а не РДМ.
+      </Box>
+    </Box>
+  </ColorBox>
+
+  <ColorBox Color="#3a3a3a" OutlineColor="#5a5a5a" OutlineThickness="2" Margin="5">
+    <Box Orientation="Vertical">
+      <Box Orientation="Horizontal" HorizontalAlignment="Center">
+        П.3 Рабство
+     </Box>
+      <Box Orientation="Vertical" Margin="10">
+        • На сервере есть система Yes/No Slave. Проект Native Fallout не несёт ответственность за то, что с вами делают в РП, если у вас стоит Yes. Вы сами согласились на это.
+
+        • No — вас нельзя взять в рабство и вы не можете брать других.
+
+        • Yes — вас могут взять в рабство, и вы можете брать других. Всё в рамках РП.
+
+        • Игрокам фракции Легиона рекомендуется иметь включённый Yes (по лору)
+      </Box>
+    </Box>
+  </ColorBox>
+
+  <ColorBox Color="#3a3a3a" OutlineColor="#5a5a5a" OutlineThickness="2" Margin="5">
+    <Box Orientation="Vertical">
+      <Box Orientation="Horizontal" HorizontalAlignment="Center">
+        П.4 ERP
+     </Box>
+      <Box Orientation="Vertical" Margin="10">
+        • ERP строго запрещён. За это — перманентный бан.
+
+        • Никакого секса, стриптиза и подобного.
+
+        • Максимум — обнимания, поцелуи, флирт.
+      </Box>
+    </Box>
+  </ColorBox>
+
+ <ColorBox Color="#3a3a3a" OutlineColor="#5a5a5a" OutlineThickness="2" Margin="5">
+    <Box Orientation="Vertical">
+      <Box Orientation="Horizontal" HorizontalAlignment="Center">
+        П.5 NLR (Новая жизнь)
+      </Box>
+      <Box Orientation="Vertical" Margin="10">
+        • Нельзя возвращаться на место смерти сразу.
+
+        • Нельзя передавать инфу о своей смерти в Discord.
+
+        • Новый персонаж не помнит прошлую жизнь
+      </Box>
+    </Box>
+  </ColorBox>
+
+  <ColorBox Color="#3a3a3a" OutlineColor="#5a5a5a" OutlineThickness="2" Margin="5">
+    <Box Orientation="Vertical">
+      <Box Orientation="Horizontal" HorizontalAlignment="Center">
+        Дополнительные пункты
+      </Box>
+      <Box Orientation="Vertical" Margin="10">
+        Их нет
+      </Box>
+    </Box>
+  </ColorBox>
+</Document>

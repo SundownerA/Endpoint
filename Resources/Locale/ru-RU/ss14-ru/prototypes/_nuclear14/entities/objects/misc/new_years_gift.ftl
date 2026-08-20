@@ -1,0 +1,16 @@
+ent-N14NewYearsGift = новогодний подарок
+    .desc = С Новым Годом!!!
+ent-N14NewYearsGift1 = { ent-N14NewYearsGift }
+    .desc = { ent-N14NewYearsGift.desc }
+ent-N14NewYearsGift2 = { ent-N14NewYearsGift1 }
+    .desc = { ent-N14NewYearsGift1.desc }
+ent-N14JunkLunchboxFill = { ent-N14JunkLunchbox }
+    .desc = { ent-N14JunkLunchbox.desc }
+ent-N14GiftFillDrinks = подарок
+    .desc = Интересно что там внутри?
+ent-N14GiftFillMedical = { ent-N14GiftFillDrinks }
+    .desc = { ent-N14GiftFillDrinks.desc }
+ent-N14GiftFillArmor = { ent-N14GiftFillDrinks }
+    .desc = { ent-N14GiftFillDrinks.desc }
+ent-N14GiftFillWeapon = { ent-N14GiftFillDrinks }
+    .desc = { ent-N14GiftFillDrinks.desc }

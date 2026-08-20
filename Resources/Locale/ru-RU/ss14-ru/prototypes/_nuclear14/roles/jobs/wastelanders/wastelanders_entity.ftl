@@ -1,0 +1,14 @@
+ent-N14MobHumanWastelander = Житель пустоши
+    .desc = { ent-MobHuman.desc }
+ent-N14MobHumanScavenger = Мусорщик
+    .desc = { ent-MobHuman.desc }
+ent-N14MobHumanReporter = Репортёр
+    .desc = { ent-MobHuman.desc }
+ent-N14MobHumanMusician = Музыкант
+    .desc = { ent-MobHuman.desc }
+ent-N14MobHumanFarmer = Фермер
+    .desc = { ent-MobHuman.desc }
+ent-N14MobHumanChaplain = Священник
+    .desc = { ent-MobHuman.desc }
+ent-N14MobHumanBartender = Бармен
+    .desc = { ent-MobHuman.desc }

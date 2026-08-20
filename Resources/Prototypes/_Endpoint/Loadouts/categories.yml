@@ -1,0 +1,44 @@
+# See the following file for existing categories: Resources\Prototypes\Loadouts\categories.yml
+
+# Alphabetically ordered
+- type: loadoutCategory
+  id: Belt
+  root: true
+
+- type: loadoutCategory
+  id: Firearms
+  subCategories:
+  - LaserFirearms
+  - LightFirearms
+  - PlasmaFirearms
+  - HeavyFirearms
+
+- type: loadoutCategory
+  id: LaserFirearms
+
+- type: loadoutCategory
+  id: LightFirearms
+
+- type: loadoutCategory
+  id: PlasmaFirearms
+
+- type: loadoutCategory
+  id: HeavyFirearms
+
+- type: loadoutCategory
+  id: Melee
+  subCategories:
+  - TwoHandedWeapon
+  - OneHandedWeapon
+
+- type: loadoutCategory
+  id: TwoHandedWeapon
+
+- type: loadoutCategory
+  id: OneHandedWeapon
+
+- type: loadoutCategory
+  id: Ammunition
+
+- type: loadoutCategory
+  id: Explosives

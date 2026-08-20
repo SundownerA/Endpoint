@@ -1,0 +1,35 @@
+- type: guideEntry
+  id: EPMobs
+  name: guide-entry-mobs
+  text: "/ServerInfo/_Endpoint/Guidebooks/Mobs/index.xml"
+  children:
+  - EPMobsAnimals
+  - EPMobsInsects
+  - EPMobsMutants
+  - EPMobsRobots
+  - EPMobsSpecies
+
+- type: guideEntry
+  id: EPMobsAnimals
+  name: guide-entry-mobs-animals
+  text: "/ServerInfo/_Endpoint/Guidebooks/Mobs/Animals.xml"
+
+- type: guideEntry
+  id: EPMobsInsects
+  name: guide-entry-mobs-insects
+  text: "/ServerInfo/_Endpoint/Guidebooks/Mobs/Insects.xml"
+
+- type: guideEntry
+  id: EPMobsMutants
+  name: guide-entry-mobs-mutants
+  text: "/ServerInfo/_Endpoint/Guidebooks/Mobs/Mutants.xml"
+
+- type: guideEntry
+  id: EPMobsRobots
+  name: guide-entry-mobs-robots
+  text: "/ServerInfo/_Endpoint/Guidebooks/Mobs/Robots.xml"
+
+- type: guideEntry
+  id: EPMobsSpecies
+  name: guide-entry-mobs-species
+  text: "/ServerInfo/_Endpoint/Guidebooks/Mobs/Species.xml"

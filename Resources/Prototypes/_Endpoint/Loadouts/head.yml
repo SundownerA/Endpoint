@@ -1,0 +1,10 @@
+- type: loadout
+  id: EPLoadoutHeadHatPatrolCap
+  category: Head
+  cost: 2
+  customColorTint: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: N14LoadoutHead
+  items:
+    - EPClothingHeadHatBlackPatrolCap

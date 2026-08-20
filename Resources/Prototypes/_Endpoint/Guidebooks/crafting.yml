@@ -1,0 +1,47 @@
+- type: guideEntry
+  id: EPCrafting
+  name: guide-entry-crafting
+  text: "/ServerInfo/_Endpoint/Guidebooks/Crafting/index.xml"
+  children:
+  - EPMaterials
+  - EPBotany
+  - EPMedicine
+  - EPCooking
+  - EPBartending
+  - EPCraftingSys
+
+- type: guideEntry
+  id: EPMedicine
+  name: guide-entry-medicine
+  text: "/ServerInfo/_Endpoint/Guidebooks/Crafting/Medicine.xml"
+  filterEnabled: True
+
+- type: guideEntry
+  id: EPMaterials
+  name: guide-entry-materials
+  text: "/ServerInfo/_Endpoint/Guidebooks/Crafting/Materials.xml"
+  filterEnabled: True
+
+- type: guideEntry
+  id: EPCooking
+  name: guide-entry-cooking
+  text: "/ServerInfo/_Endpoint/Guidebooks/Crafting/Cooking.xml"
+  filterEnabled: True
+
+- type: guideEntry
+  id: EPBartending
+  name: guide-entry-bartending
+  text: "/ServerInfo/_Endpoint/Guidebooks/Crafting/Bartending.xml"
+  filterEnabled: True
+
+- type: guideEntry
+  id: EPBotany
+  name: guide-entry-botany
+  text: "/ServerInfo/_Endpoint/Guidebooks/Crafting/Botany.xml"
+  filterEnabled: True
+
+- type: guideEntry
+  id: EPCraftingSys
+  name: guide-entry-crafting-sys
+  text: "/ServerInfo/_Endpoint/Guidebooks/Crafting/CraftingSys.xml"
+  filterEnabled: True
